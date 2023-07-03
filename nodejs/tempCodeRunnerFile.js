@@ -1,1 +1,0 @@
-let fun = setTimeout(function () {},2000)
